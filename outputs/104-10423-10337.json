@@ -1,0 +1,11 @@
+{
+  "is_kennedy_assassination": true,
+  "important": true,
+  "title": "Warren Commission Testimony Excerpts",
+  "summary": "# Warren Commission Testimony Excerpts\n\n- **Date**: December 23, 1964\n- **Subject**: Discussion on the assassination of President John F. Kennedy and the involvement of Lee Harvey Oswald.\n- The document includes testimony regarding the investigation into Oswald's background, his connections, and the FBI's procedures in handling threats against the President.\n- It emphasizes that Oswald was never an agent or informant for the FBI.\n- The testimony also addresses the security measures taken by the Secret Service and the challenges faced in protecting the President.",
+  "page_info": {
+    "total_pages": 52,
+    "analyzed_pages": 30,
+    "note": "ページ数が30を超えるため、最初の30ページのみを分析しました"
+  }
+}

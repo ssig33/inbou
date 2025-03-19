@@ -1,0 +1,11 @@
+{
+  "is_kennedy_assassination": true,
+  "important": true,
+  "title": "The Examination of the Bona Fides of a KGB Defector",
+  "summary": "# 概要\n\nこのドキュメントは、KGBの脱走者ユリイ・ノセンコに関するCIAの調査を含んでいます。ノセンコは1962年にスイスのジュネーブでCIAに接触し、KGBの内部情報を提供することを申し出ました。\n\n## 主な内容\n- **ノセンコの主張**: 彼はKGBの高官であり、CIAに対して重要な情報を提供する能力があると主張。\n- **調査の経緯**: ノセンコは数回にわたりCIAに尋問され、彼の主張の信憑性を確認するための情報が収集されました。\n- **結論**: CIAはノセンコの情報の正確性に疑問を持ち、彼の信頼性を評価するためのさらなる調査を行いました。",
+  "page_info": {
+    "total_pages": 416,
+    "analyzed_pages": 30,
+    "note": "ページ数が30を超えるため、最初の30ページのみを分析しました"
+  }
+}

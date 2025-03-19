@@ -1,0 +1,11 @@
+{
+  "is_kennedy_assassination": true,
+  "important": true,
+  "title": "JFK Records Review Project and Lessons Learned",
+  "summary": "# JFK Records Review Project and Lessons Learned\n\n- **背景**: JFK暗殺に関する記録のレビューは、法的要件に基づいて行われた。\n- **プロセス**: 1992年のJFK法により、CIAは関連資料をNARAに移管する義務があった。\n- **課題**: 資料の重複や不適切な分類が問題となり、リリースの遅延を引き起こした。\n- **教訓**: 情報管理の重要性、透明性の必要性、そして適切なガイドラインの維持が強調された。\n- **結論**: JFKプロジェクトは多くのリソースを消費し、情報の公開に関する重要な教訓を提供した。",
+  "page_info": {
+    "total_pages": 63,
+    "analyzed_pages": 30,
+    "note": "ページ数が30を超えるため、最初の30ページのみを分析しました"
+  }
+}
