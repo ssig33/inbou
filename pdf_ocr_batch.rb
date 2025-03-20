@@ -60,7 +60,7 @@ def convert_pdf_to_images(pdf_path, output_dir)
   unless result
     puts "エラー: PDFの変換に失敗しました。Popplerがインストールされているか確認してください。"
     puts "インストール方法: sudo apt-get install poppler-utils (Ubuntu) または brew install poppler (macOS)"
-    exit 1
+    raise
   end
   
   # 生成された画像ファイルのパスを返す
